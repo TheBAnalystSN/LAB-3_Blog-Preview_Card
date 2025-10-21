@@ -25,8 +25,6 @@ This lab refactors my previous Frontend Mentor project — the **Blog Preview Ca
 - [Frontend Mentor Profile](https://www.frontendmentor.io)  
 - [GitHub](#) | [LinkedIn](#)
 
----
-
 ## 📤 Submission
 - **GitHub Repositories:**
   - [Blog Preview Card (Bootstrap Refactor)](#)
